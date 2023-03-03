@@ -6,6 +6,10 @@ WeUI + vue3(组合式API) + uniapp + ts + sass
 
 > A Uniapp applications of Vue3.x for Applets.
 
+## UI
+(https://rp.mockplus.cn/run/Xs3RD31GLJ/UT61dh1EjT?cps=expand&rps=hide&nav=1&ha=1&la=0&fc=1&dt=iphoneX&out=0&rt=1)
+open it with [mock](https://www.mockplus.cn/)
+
 ## Install
 ```shell
 npm install element-ui -S
